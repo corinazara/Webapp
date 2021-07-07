@@ -35,4 +35,4 @@ steps:
 - task: CopyFiles@2
   inputs:
     Contents: '**'
-    TargetFolder: 'WebDeployment'
+    TargetFolder: 'WebApp - Build Pipeline'
